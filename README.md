@@ -1,7 +1,6 @@
 ### Hi 👋, I am Laura 
 
-- 🔭 Currently doing a undergradute research about decision making problems
-- 🌱 Studying Web Development
+- 🔭 Computer science master's student, in the area of ​​decision making, at PUC Minas
 - 📫 Contact me at: laura.cozzi.ribeiro@gmail.com
 
 <div align="center">
